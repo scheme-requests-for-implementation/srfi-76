@@ -1,6 +1,8 @@
 * SRFI 76: R6RS Records
 
-** by Will Clinger, R. Kent Dybvig, Michael Sperber, Anton van Straaten
+** by Will Clinger, R. Kent Dybvig, Michael Sperber, and Anton van Straaten
+
+
 
 This repository hosts [[https://srfi.schemers.org/srfi-76/][SRFI 76]]: R6RS Records, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
