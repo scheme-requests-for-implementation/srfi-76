@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=data-structure][Data Structure]], [[https://srfi.schemers.org/?keywords=r6rs-process][R6RS process]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-76/][SRFI 76]]: R6RS Records, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /withdrawn/ status.
